@@ -1,0 +1,26 @@
+{
+  "name": "super-grouper",
+  "version": "1.0.0",
+  "description": "Produce nested lookup tables with ease!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/briandamaged/node-super-grouper.git"
+  },
+  "keywords": [
+    "group",
+    "grouper"
+  ],
+  "author": "Brian Lauber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briandamaged/node-super-grouper/issues"
+  },
+  "homepage": "https://github.com/briandamaged/node-super-grouper#readme",
+  "dependencies": {
+    "zelda-lists": "^1.0.0"
+  }
+}
