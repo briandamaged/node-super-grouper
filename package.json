@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/briandamaged/node-super-grouper.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "group",
     "grouper"
